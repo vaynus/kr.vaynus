@@ -6,6 +6,7 @@
 2. Создаём директорию.
 
 ![Снимок экрана 2024-04-01 190748](https://github.com/vaynus/kr.vaynus/assets/137491734/2f555869-5dfa-481c-a429-ec6f5da867c2)
+
 3. Далее подключаем дополнительный репозиторий MySQL.
 ![Снимок экрана 2024-04-02 170107](https://github.com/vaynus/kr.vaynus/assets/137491734/73d5dd4c-700e-444e-9c7d-fa1a896df331)
 ![Снимок экрана 2024-04-02 170124](https://github.com/vaynus/kr.vaynus/assets/137491734/d4e5a6b3-012b-4b5c-b6fe-9c538e156bb0)
